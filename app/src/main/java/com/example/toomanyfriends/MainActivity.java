@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
 
             TOPIC = "/topics/userABC"; //topic must match with what the receiver subscribed to
             if (somebodyThere){
-                NOTIFICATION_MESSAGE = "The" +  NOTIFICATION_TITLE + " is now empty, enjoy!";
+                NOTIFICATION_MESSAGE = "The " +  NOTIFICATION_TITLE + " is now empty, enjoy!";
             }else{
                 NOTIFICATION_MESSAGE = "I'm going to the " +  NOTIFICATION_TITLE + ", Watch out!";
             }
