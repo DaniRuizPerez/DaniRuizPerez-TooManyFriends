@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7118802102",
+    "firebase_url": "https://toomanyfriends-1a49d.firebaseio.com",
+    "project_id": "toomanyfriends-1a49d",
+    "storage_bucket": "toomanyfriends-1a49d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7118802102:android:f6097502073c26458e2a17",
+        "android_client_info": {
+          "package_name": "com.example.toomanyfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7118802102-skijpnii7bs61qrq7n3p0c2qqjj90n4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCra908-VER8xmd3W2722DLmaKpCAXchJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7118802102-skijpnii7bs61qrq7n3p0c2qqjj90n4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
