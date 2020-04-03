@@ -1,3 +1,6 @@
+## Developed for the COVID-19 Global Hackathon
+https://devpost.com/software/toomanyfriends
+
 ## Inspiration
 We want to keep social distancing, however, it is difficult to do this for groups that share many common areas in a housing unit. We propose an app that allows for easy sharing of occupancy status. Ever felt like you had too many friends and it is very difficult to not have social contact? Then this is your app!
 
